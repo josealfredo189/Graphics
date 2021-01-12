@@ -1,6 +1,6 @@
 """
 Este programa contiene las funciones de rotacion en los ejes X, Y, Z
-jutno a sus respectivas matrices de rotación definidas en las clases anteriores
+junto a sus respectivas matrices de rotación definidas en las clases anteriores
 """
 
 import numpy as np
